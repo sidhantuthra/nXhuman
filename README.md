@@ -1,4 +1,4 @@
-nXhuman case authoring tool. Use this tool to create a case to host on the
+Welcome to the nXhuman Case Authoring tool. Use this tool to create a case to host on the
 nXhuman case simulation tool. This tool is created by a group of students at UNC Chapel Hill in the COMP 585 (Serious Games) course. Important links are below along with instructions on how to use this repository. 
 
 Link to webapp: https://nxhuman.herokuapp.com
