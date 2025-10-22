@@ -11,7 +11,7 @@
     "chartist": "^0.10.1",
     "classnames": "^2.2.5",
     "cors": "2.8.4",
-    "express": "4.15.3",
+    "express": "4.20.0",
     "express-generator": "^4.16.0",
     "express-rate-limit": "^2.11.0",
     "jquery": "^3.3.1",
