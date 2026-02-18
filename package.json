@@ -37,7 +37,7 @@
     "react-sweet-progress": "^1.1.0",
     "react-swipeable-views": "^0.12.12",
     "react-table": "^6.8.0",
-    "socket.io": "2.0.3",
+    "socket.io": "2.5.0",
     "string-capitalize-name": "1.0.3"
   },
   "scripts": {
